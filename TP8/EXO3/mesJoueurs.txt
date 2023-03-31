@@ -1,0 +1,8 @@
+Henry Thierry avantCentre 12 45 411
+SmithRowe Emile milieu 10 21 19
+Martinelli Gabriel milieu 35 21 23
+Aaron Ramsdale gardien 32 23 0
+Arsenal UK PremierLeague 4
+Ronaldo Cristiano milieu 7 36 801
+Pogba Paul milieu 6 28 85
+ManUnited UK PremierLeague 5

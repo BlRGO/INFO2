@@ -1,0 +1,11 @@
+printf("nom ? \n");
+printf("prénom ? \n");
+printf("poste ? \n");
+printf("numéro ? \n");
+printf("age ? \n");
+printf("nombre de buts ? \n");
+
+printf("nom ? : \n");
+printf("pays ? : \n");
+printf("championnat ? : \n");
+printf("classement ? : \n");
