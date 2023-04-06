@@ -8,7 +8,7 @@ tabEtudiants* lireCSV(char* fichierNotes)
     FILE* mesNotes = NULL; char ligne[N];
     int nbLignesLues = 0; int nbColonnesLues = 0; int i = 0;
     char* laLigne;
-    tabEtudiants* tabEtu = malloc(sizeof(TabEtudiant)*1);
+    tabEtudiants* tabEtu = malloc(sizeof(TabEtudiants)*1);
     etudiant e1 = malloc(sizeof(etudiant)*1);
     etudiant e2 = malloc(sizeof(etudiant)*1);
     etudiant e3 = malloc(sizeof(etudiant)*1);
